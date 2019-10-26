@@ -1,16 +1,16 @@
 # ADA_Project
 This is the repository of rADAr group for the project in Applied Data Analysis 2019/2020
 
-Acquati Francesco\\
-Del Sole Claudio\\
-Macchi Gabriele\\
-Vicentini Marco\\
+Acquati Francesco  
+Del Sole Claudio  
+Macchi Gabriele  
+Vicentini Marco  
 
 # Title
 A GORGEOUS PROJECT
 
 # Abstract
-Wealth inequality, global warming and natural resources exploitation are only some of the most discussed issues of the last decades. In our project we want to assess the influence that agriculture and livestock farming have on these different topics and how these problems could be solved.
+Wealth inequality, global warming and natural resources exploitation are only some of the most discussed issues of the last decades. In our project we want to assess the influence that agriculture and livestock farming have on these different topics and how these problems could be solved.  
 The effect of agriculture will be evaluated by measuring the produced carbon dioxide, the use of pesticides, whether resources are equally distributed on the production chain and eventually how these affect the availability of natural resources. Both the influence of single products and single countries on these matters will be assessed. This will provide us insight on what nations play a key role in accumulating the agriculture-originated wealth of third countries. Hence, we will evaluate nations reciprocal influence. We will also try to comprehend how all these factors can be correlated to the world hunger and how the UN could try to alleviate the issue.
 
 
