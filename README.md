@@ -17,10 +17,12 @@ The effect of agriculture will be evaluated by measuring the produced carbon dio
 ---
 
 # Research questions
-A list of research questions you would like to address during the project.
+- Are the resources produced by agriculture equally distributed between the workers or is there a strong bias in favour of companies? What are the difference among nations and products? Why?
+- Based on the CO2 emission and the use of pesticides, what is the environmental impact of agriculture on the producing countries and on the importing countries? What are the difference among nations and products? Why?
+- What are consequences of the agriulture industry on the matter of the availibility of natural and energetic resources? What are the difference among nations and products? Why?
+- Once all these questions have been answerd. Could any of these issues be the casue of world hunger? Why? How could this be possibly solved?
 
 
-- 
 
 # Dataset
 List the dataset(s) you want to use, and some ideas on how do you expect to get, manage, process and enrich it/them. Show us you've read the docs and some examples, and you've a clear idea on what to expect. Discuss data size and format if relevant.
