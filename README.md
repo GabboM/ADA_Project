@@ -19,8 +19,8 @@ The effect of agriculture will be evaluated by measuring the produced carbon dio
 In the following we will try to understand the answers of these questions and why it is the case:
 - Are the resources produced by agriculture equally distributed between the workers or is there a strong bias in favour of companies?
 - Based on the CO2 emission and the use of pesticides, what is the environmental impact of agriculture on the producing countries and on the importing countries?
-- Which are consequences of the agriulture industry on the matter of the availibility of natural and energetic resources?
-- Which are the differences among nations and products? Is there any similar pattern in the poor and rich nations?
+- What are consequences of the agriulture industry on the matter of the availibility of natural and energetic resources?
+- What are the differences among nations and products? Is there any similar pattern in the poor and rich nations?
 - Once all these questions have been answerd, could any of these issues be a casue of world hunger? How could this be possibly solved?
 
 
