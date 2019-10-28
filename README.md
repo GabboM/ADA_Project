@@ -25,8 +25,8 @@ In the following, we will try to provide answers to these questions and detect t
 We plan to use at least part of the many datasets provided by FAOSTAT. They consist on time-series and cross-sectional data about worldwide food production and agriculture-related topics: trade and food balance, emissions, agri-environmental indicators, land use.
 Datasets are available for download on Kaggle or directly on FAO website (http://www.fao.org/faostat/en/#data), are provided in csv format and apper to be already well formatted: grouping, selecting and other basic operations should be straightforward. Morover, since the amount of data is conveniently split in different files, which individually do not usually exceed 200-300 MB, the project should be manageable without the support of a remote cluster.
 Accessory data about demographic or economic aspects which may turn out to be useful during project development could be easily retrieved from main international institutions websites, for example:
-- United Nations, http://data.un.org/Explorer.aspx;
-- World Bank, https://data.worldbank.org/.
+- United Nations http://data.un.org/Explorer.aspx;
+- World Bank https://data.worldbank.org/.
 
 # A list of internal milestones up until project milestone 2
 - Setup the project: November 4
