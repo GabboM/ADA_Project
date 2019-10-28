@@ -59,5 +59,8 @@ List the dataset(s) you want to use, and some ideas on how do you expect to get,
     
     Any other business...
     
-# Questions for TAa
-Add here some questions you have for us, in general or project-specific.
+# Questions for TAs
+- Is it a good and interesting idea?
+- Should we change something?
+- Is the aim of this project too complex or not feasible?
+- The environmental impact could be also correlated to other agents that we are not considering: how to handle this problem?
