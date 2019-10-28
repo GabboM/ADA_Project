@@ -7,20 +7,21 @@ Macchi Gabriele
 Vicentini Marco  
 
 # Title
-A GORGEOUS PROJECT
+Climate Change and Global Inequalities: in depth analysis of FAO database.
 
 # Abstract
 Wealth inequality, global warming and natural resources exploitation are some of the most discussed issues of the last decades. In our project we want to assess the influence that agriculture and livestock farming have on these different topics and how these problems could be solved.  
-The effect of agriculture will be evaluated by measuring the produced carbon dioxide, the use of pesticides, whether resources are equally distributed on the production chain and eventually how these affect the availability of natural resources. Both the influence of single products and single countries on these matters will be assessed. This will provide us insight on what nations play a key role in accumulating the agriculture-originated wealth of third countries. Hence, we will evaluate nations reciprocal influence. We will also try to comprehend how all these factors can be correlated to the world hunger and how the UN could try to alleviate the issue.
-
+The effect of agriculture will be evaluated by measuring the produced carbon dioxide, the use of pesticides, whether resources are equally distributed on the production chain and eventually how these affect the availability of natural resources. Both the influence of single products and single countries on these matters will be assessed. This will provide us insight on which nations play a key role in accumulating the agriculture-originated wealth of third countries. Hence, we will evaluate nations reciprocal influence. We will also try to comprehend how all these factors can be correlated to the world hunger and how the UN could try to alleviate the issue.
 
 ---
 
 # Research questions
-- Are the resources produced by agriculture equally distributed between the workers or is there a strong bias in favour of companies? What are the difference among nations and products? Why?
-- Based on the CO2 emission and the use of pesticides, what is the environmental impact of agriculture on the producing countries and on the importing countries? What are the difference among nations and products? Why?
-- What are consequences of the agriulture industry on the matter of the availibility of natural and energetic resources? What are the difference among nations and products? Why?
-- Once all these questions have been answerd. Could any of these issues be a casue of world hunger? Why? How could this be possibly solved?
+In the following we will try to understand the answers of these questions and why it is the case:
+- Are the resources produced by agriculture equally distributed between the workers or is there a strong bias in favour of companies?
+- Based on the CO2 emission and the use of pesticides, what is the environmental impact of agriculture on the producing countries and on the importing countries?
+- Which are consequences of the agriulture industry on the matter of the availibility of natural and energetic resources?
+- Which are the differences among nations and products? Is there any similar pattern in the poor and rich nations?
+- Once all these questions have been answerd, could any of these issues be a casue of world hunger? How could this be possibly solved?
 
 
 
@@ -61,6 +62,6 @@ List the dataset(s) you want to use, and some ideas on how do you expect to get,
     
 # Questions for TAs
 - Is it a good and interesting idea?
-- Should we change something?
+- What should we change?
 - Is the aim of this project too complex or not feasible?
 - The environmental impact could be also correlated to other agents that we are not considering: how to handle this problem?
