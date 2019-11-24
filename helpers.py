@@ -16,8 +16,7 @@ import plotly.graph_objects as go
 # Features Selection
 
 def features(df, Area=False, Item=False, Element=False, plot=False):
-    '''
-    Inputs: the dataframe from FAO, the list of attributes we are interested in:
+    '''Inputs: the dataframe from FAO, the list of attributes we are interested in:
             Area, Item, Element: insert list of values we want to keep
     Output: the dataframe containing just the selected attributes
     '''
@@ -50,6 +49,28 @@ def features(df, Area=False, Item=False, Element=False, plot=False):
     return df
 
 
-# Dataset Preparation for Plot 
+def compare_different_country(df, country=False, feature=False, plot = False):
+    ''' Given in input a df and the features we want to compare, it returns a time series plot
+        IMPORTANT! Check the name of the columns to adapt the code
+    '''
+    if country:
+        df = df[df.Area.isin(country)]
+    if feature:
+        df = df[["Year","Area"] + feature]
+    
+    df = df.melt(id_vars = ["Year","Area"], value_vars = feature). \
+        pivot_table(index="Year",columns=["Area","variable"], values = "value", aggfunc="first")
+    df.reset_index(inplace=True)
+    
+    # Plot
+    if plot:
+        fig = go.Figure()
+        for comb in list(itertools.product(country,feature)):
+            fig.add_trace(go.Scatter(x=df.Year, y=df[comb], name=str(comb)))
+        fig.update_layout(title_text='Time Series with Rangeslider',
+                        xaxis_rangeslider_visible=True)
+        fig.show()
+    return df
+
 
 
