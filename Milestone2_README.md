@@ -8,7 +8,7 @@ Vicentini Marco
 Our data is analyzed in the notebook Milestone_2.ipynb.
 
 # Initial research questions
-In the following, we will try to provide answers to these questions and detect the causes:
+As stated in the Milestone 1, in this milestone we tried to analyze and answer the following questions:
 - Are the resources produced by agriculture equally distributed among the workers or is there a strong bias in favour of companies?
 - Based on the CO2 emission and the use of pesticides, what is the environmental impact of agriculture on the producing countries and on the importing countries?
 - What are the consequences of the agriculture industry on the availability of natural and energetic resources?
