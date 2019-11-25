@@ -1,4 +1,3 @@
-*This is the rADAr group repository for the project in Applied Data Analysis 2019/2020* \
 Acquati Francesco \
 Del Sole Claudio \
 Macchi Gabriele \
