@@ -23,6 +23,7 @@ After a first analysis of our data we now have a more complete understanging of 
 - Concerning the fertilizers dataset, we did not have a unique dataset since FAO changed the way of collecting data in 2002. However, for this year only, we had data stored either in the old and the new manner. This allowed us to make some analyses in order to obtain a consistent and uniform dataset. From 2002 we also have a useful index that expresses the use of fertilizers per area harvested. It will be interesting to evaluate how its correlation with the production per area harvested varies among countries.
 - Considering the international trade we found out that they are some of the most exporting and importing countries but, still they are not among the ones that produce the most.
 - We also found out that countries that have the highest percentages of area dedicated to agriculture are not the ones that prduce the most. This is obviously due to the fact that they are not the largest countries in terms of area.
+- The manin problem we ran intoo when using the worrld maps was the fact that some countries changed their borders over time and some did not initially exist. This is the case of USSR that existed only until 1991 when it then splitted into many different countries.
 
 ## Future tasks
 We created an interactive way to obtain time series for each country so that we are now able to quickly analyze data from selected countries once at a time and confront them. This will provide us an easy way to detect presence of unexpected behaviours in specific countries.\
