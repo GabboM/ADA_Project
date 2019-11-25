@@ -17,7 +17,7 @@ As stated in the Milestone 1, in our project we try to analyze and answer the fo
 
 ## Milestonee 2 descriprition 
 After a first analysis of our data we now have a more complete understanging of what we have and how it could be further examined. While some obvious assumption can be already confirmed, we now have new clues we will need to study:
-- As we can deduce from our worldmaps the countries that produce and pollute the most are generally always the same: China, USA, Inda, Brazil, Russia, Nigeria
+- As we can deduce from our worldmaps the countries that produce and pollute the most are generally always the same: China, USA, Inda, Brazil, Russia, Nigeria, Mexico, South Africa etc.
 - These are also some of the largest in the world in terms of area and in terms of population density.
 - It will be interesting to analyze how the population, its density and the land area (either in terms of total area and harvestable area) impact on the production and pollution.
 - Concerning the fertilizers dataset, we did not have a unique dataset since FAO change the way of collecting data in 2002. However, for this year we had data stored either in the old and the new manner. This allowed us to make some analyses in order to obtain a consistent and uniform dataset.
