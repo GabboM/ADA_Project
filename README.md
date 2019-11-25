@@ -62,3 +62,22 @@ Accessory data about demographic or economic aspects which may turn out to be us
 - What should we change or improve?
 - Is the aim of this project too complex or not feasible?
 - The environmental impact could be also correlated to other agents that we are not considering: how to handle this problem?
+
+# Milestone 2 Updates
+
+## Task delivery
+Our data is analyzed in the notebook `Milestone_2.ipynb`.
+
+## Description
+After a first analysis of our data we now have a more complete understanding of what we have and how it could be further examined. While some obvious assumption can be already confirmed, we now have new clues we will need to study:
+- From FAO data we have very detailed information about livestock and harvest production; we initially evaluated the data considering only the total production.
+- Concerning the pollution, data was considered only in terms of equivalent CO2 produced and in the use of pesticides. Since FAO specifically attributes the CO2 prodution to different agriculture tasks, we were able to distinguish the CO2 produced wheter it came from livestock farming or harvesting.
+- As we can deduce from our worldmaps, the countries that produce and pollute the most are generally always the same: China, USA, India, Brazil, Russia, Nigeria, Mexico, South Africa etc. These are also some of the largest in the world in terms of area and population: it will be interesting to analyze how the population, its density and the land area (either in terms of total area and harvestable area) impact on the production and pollution.
+- Concerning the fertilizers dataset, we did not have a unique dataset since FAO changed the way of collecting data in 2002. However, for this year only, we had data stored either in the old and the new manner. This allowed us to make some analyses in order to obtain a consistent and uniform dataset. From 2002 we also have a useful index that expresses the use of fertilizers per area harvested. It will be interesting to evaluate how its correlation with the production per area harvested varies among countries.
+- Considering the international trade, we found out that some of the top countries as for import and export are not among the ones that produce the most.
+- We also found out that countries that have the highest percentages of area dedicated to agriculture are not the ones that produce the most: this is obviously due to the fact that they are not the largest countries in terms of area. However, it would be interesting to study the relations between the area dedicated to agriculture (subdivided in different categories: cropland, meadows area, arable area) and the total crop and livestock production.
+- The data we collected about the use of natural resources for agriculture (water, energy) and the soil quality, may be used to assess the impact of production trends in time on the local environment.
+- The main problem we ran into when using the world maps was the fact that some countries changed their borders over time and some did not initially exist. This is the case of USSR that existed only until 1991, when it then splitted into many different countries.
+
+## Future tasks
+We created an interactive way to obtain time series for each country so that we are now able to quickly analyze data from selected countries once at a time and compare them. This will provide us an easy way to detect presence of unexpected behaviours in specific countries. We will now focus on the top polluting and producting countries and analyze how their behaviours changed over the last decades, following the hints we provided in this task's description.
