@@ -27,11 +27,11 @@ Accessory data about demographic or economic aspects have been retrieved from ma
 - [World Inequality Database](https://wid.world/data/)
 
 # Organization of the Github repository
-The repository contains the following files:
-* DataCleaning.ipynb: all raw data are cleaned, and then saved in a pickle format in the /pickle folder.
-* GrangerCausality.ipynb: analysis on correlation / causality between global CO2 emissions and temperature changes on a global level.
-* GlobalInequality.ipynb: clustering of countries according to their income distribution patterns in the last 50 years.
-* TradeNetwork.ipynb: network analysis of international trades of agricultural products.
+The repository contains the following notebooks, in which our analysis is carried out:
+* DataCleaning.ipynb: all raw data from different sources are cleaned, and then saved in pickle format in the /pickle folder.
+* GrangerCausality.ipynb: analysis on correlation / causality between global CO2 emissions and temperature changes on a global level, using Granger Causality test.
+* GlobalInequality.ipynb: clustering of world countries according to their income distribution patterns in the last 50 years.
+* TradeNetwork.ipynb: network analysis of international trades of agricultural products and analysis of the role major countries play in redistributing agricultural-originated resources.
 * Products.ipynb: analysis of carbon footprint for different categories of products and assessment of their impact on global CO2 emissions.
 
 # Website / Data Story
