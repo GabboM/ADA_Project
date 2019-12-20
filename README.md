@@ -24,7 +24,7 @@ Datasets are available for download on Kaggle or directly on [FAO website](http:
 Accessory data about demographic or economic aspects have been retrieved from main international institutions websites, for example:
 - [United Nations](http://data.un.org/Explorer.aspx);
 - [World Bank](https://data.worldbank.org/);
-- [World Inequality Database](https://wid.world/data/)
+- [World Inequality Database](https://wid.world/data/).
 
 # Organization of the Github repository
 The repository contains the following notebooks, in which our analysis is carried out:
